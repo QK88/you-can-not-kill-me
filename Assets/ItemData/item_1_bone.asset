@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25918eb6b66a9de458d71b78a6b0eebb, type: 3}
+  m_Name: item_1_bone
+  m_EditorClassIdentifier: 
+  itemName: bone
+  itemDes: "\u8FD9\u5757\u9AA8\u5934\u770B\u7740\u50CF\u662F\u4EBA\u4F53\u9AA8\u9ABC"
+  itemSprite: {fileID: 21300000, guid: 6b1cba5a9747b984d86cd0fe768f3f3b, type: 3}
+  itemPrice: 0
